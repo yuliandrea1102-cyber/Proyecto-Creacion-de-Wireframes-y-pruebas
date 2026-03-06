@@ -1,6 +1,7 @@
 # Proyecto-Creacion-de-Wireframes-y-pruebas
 Consolidar todas las etapas del proyecto en un solo archivo de Figma, que muestre de forma clara el recorrido de diseño: desde los wireframes iniciales hasta el prototipo interactivo final
-[Doagrama de flujo.pdf](https://github.com/user-attachments/files/25619218/Doagrama.de.flujo.pdf)
+
+[Uploading Diagrama.de.flujo (1).pdf…]()
 
 <img width="354" height="764" alt="Screenshot_1" src="https://github.com/user-attachments/assets/4d4aa465-d31f-47e6-925e-af2bbe168d22" />
 <img width="356" height="767" alt="Screenshot_2" src="https://github.com/user-attachments/assets/fdc31654-f07f-4bf4-be55-f0ba1fe60b7a" />
